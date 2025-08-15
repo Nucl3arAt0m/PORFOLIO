@@ -48,7 +48,7 @@ const Skills = () => {
         <div className="flex items-center justify-center">
           <TerminalAlerts
             heading="Log Analysis & Threat Detection"
-            words={['ELK Stack', 'Sysmon', 'Winlogbeat']}
+            words={['ELK Stack', 'Sysmon', 'SentinelOne']}
           />
         </div>
   

@@ -10,7 +10,7 @@ const CertTheme = ({badgSrc,name}) => {
   <img
     src={badgSrc}
     alt="Certificate"
-    className="w-full h-ful object-cover"
+    className="w-full h-full object-cover"
   />
   <div
     className="

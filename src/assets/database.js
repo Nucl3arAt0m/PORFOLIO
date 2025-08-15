@@ -9,9 +9,12 @@ import penetrationTesting from "../assets/img/Certificates/penetrationTesting.jp
 
 
 const badgesList=[
-  ["10f8c1ab-0c9d-41a1-9c65-95e478af6acd"],
+  "10f8c1ab-0c9d-41a1-9c65-95e478af6acd",
   "8df374b3-7872-4e46-b029-3b416d6d2b38",
   "0d1f3409-56a8-496d-a7c8-33bd11662ea3",
+  "4ee8029c-2626-48d1-9185-34f794018178",
+  "46601c21-d981-4fe2-af24-a1a2d2adcc19",
+  "ba3b82ac-6441-4315-ae3e-725b62371049",
 ];
 const certificationsList=[
   [googleCyberSecurity,"Google Cybersecurity Professional Certificate"],
